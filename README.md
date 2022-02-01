@@ -1,2 +1,2 @@
-# flex_turismos
+# Flex-turismos
 Desafio de Flexbox da Dio. 
